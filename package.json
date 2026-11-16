@@ -1,0 +1,18 @@
+{
+  "name": "mechatlas",
+  "version": "1.0.0",
+  "private": true,
+  "description": "MechAtlas - bilingual mechanical engineering app (Capacitor / Android)",
+  "scripts": {
+    "sync": "npx cap sync android",
+    "open": "npx cap open android",
+    "run:android": "npx cap run android"
+  },
+  "dependencies": {
+    "@capacitor-firebase/messaging": "^8.6.0",
+    "@capacitor/android": "^8.6.2",
+    "@capacitor/cli": "^8.6.2",
+    "@capacitor/core": "^8.6.2",
+    "firebase": "^12.19.0"
+  }
+}

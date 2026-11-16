@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "594332629854",
+    "project_id": "mechatlas-2b068",
+    "storage_bucket": "mechatlas-2b068.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:594332629854:android:e7652fe093b2aa743fedcf",
+        "android_client_info": {
+          "package_name": "com.mechatlas.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXLr_kl3QLtmE86gpnG_euVPYwVEvcEmE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
